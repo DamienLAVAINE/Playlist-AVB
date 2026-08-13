@@ -1,6 +1,6 @@
 const tracks = [
   { name: "No more/AVB", file: "audio/AVB - No more 13.08.26.mp3", duration: "3:37" },
-  { name: "Electrocardiogramme/AVB", file: "audio/AVB - Electrodardiogramme 13.08", duration: "4:13" },
+  { name: "Electrocardiogramme/AVB", file: "audio/AVB - Electrodardiogramme 13.08-2", duration: "4:13" },
  
    
 ];
