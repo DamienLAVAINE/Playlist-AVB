@@ -1,6 +1,6 @@
 const tracks = [
   { name: "No more/AVB", file: "audio/AVB - No more 13.08.26.mp3", duration: "3:37" },
-  { name: "Electrocardiogramme/AVB", file: "audio/AVB - Electrodardiogramme 13.08-2.mp3", duration: "4:13" },
+  { name: "Electrocardiogramme/AVB", file: "audio/AVB - Electrodardiogramme 13.08-3.mp3", duration: "4:13" },
   { name: "C'est quoi ça/AVB", file: "audio/AVB - C'est quoi ça _ bd 20 (Remix) sans Marion 21.08-2.mp3", duration: "4:19" },
    
 ];
