@@ -3,7 +3,7 @@ const tracks = [
   { name: "Electrocardiogramme/AVB", file: "audio/AVB - Electrodardiogramme 13.08-3.mp3", duration: "4:13" },
   { name: "C'est quoi ça/AVB", file: "audio/AVB - C'est quoi ça _ bd 20 (Remix) sans Marion 21.08-2.mp3", duration: "4:19" },
   { name: "Ma Benz/Brigitte", file: "audio/Ma benz 27.08-2.mp3", duration: "2:55" },
-   
+  { name: "Pookie/Aya", file: "audio/record pookie 27.08-2.mp3", duration: "2:41" },
 ];
 
 
