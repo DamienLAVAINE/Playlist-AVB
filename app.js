@@ -2,7 +2,7 @@ const tracks = [
   { name: "No more/AVB", file: "audio/AVB - No more 27.08.mp3", duration: "3:37" },
   { name: "Electrocardiogramme/AVB", file: "audio/AVB - Electrodardiogramme 27.08.26.mp3", duration: "4:13" },
   { name: "C'est quoi ça/AVB", file: "audio/AVB - C'est quoi ça - Mix final 30.08 v2.mp3", duration: "4:33" },
-  { name: "Ma Benz/Brigitte", file: "audio/Ma benz 27.08-2.mp3", duration: "2:55" },
+  { name: "Ma Benz/Brigitte", file: "audio/Brigitte - Ma benz - ABV Cover 31.08.mp3", duration: "4:19" },
   { name: "Pookie/Aya", file: "audio/record pookie 27.08-2.mp3", duration: "2:41" },
 ];
 
