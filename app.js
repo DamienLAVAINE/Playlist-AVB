@@ -1,6 +1,6 @@
 const tracks = [
   { name: "No more/AVB", file: "audio/AVB - No more 27.08.mp3", duration: "3:37" },
-  { name: "Electrocardiogramme/AVB", file: "audio/AVB - ElectroK 08.09.mp3", duration: "4:19" },
+  { name: "Electrocardiogramme/AVB", file: "audio/AVB - ElectroK 10.09.mp3", duration: "4:19" },
   { name: "C'est quoi ça/AVB", file: "audio/AVB - C'est quoi ça - Mix final 30.08 v2.mp3", duration: "4:33" },
   { name: "Ma Benz/Brigitte", file: "audio/Brigitte - Ma benz - ABV Cover 06.09.mp3", duration: "4:19" },
 
