@@ -1,8 +1,8 @@
 const tracks = [
   { name: "Ma Benz/Brigitte", file: "audio/Brigitte - Ma benz - ABV Cover 06.09.mp3", duration: "4:19" },
-  { name: "Hollywood/The Cranberries", file: "audio/AVB - Hollywood record 30.09 - retravaillé.mp3", duration: "4:48" },
+  { name: "Hollywood/The Cranberries", file: "audio/AVB - Hollywood last structure.mp3", duration: "5:40" },
   { name: "No more/AVB", file: "audio/AVB - No more 27.08.mp3", duration: "3:37" },
-  { name: "ALED/AVB", file: "audio/AVB - ALED v3v - 02.10-2.mp3", duration: "3:45" },
+  { name: "ALED/AVB", file: "audio/AVB - ALED v4.mp3", duration: "4:10" },
 
 
 ];
