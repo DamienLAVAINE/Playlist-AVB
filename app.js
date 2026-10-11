@@ -3,6 +3,8 @@ const tracks = [
   { name: "Hollywood/The Cranberries", file: "audio/The cranberries - Hollywood - AVB Cover 08.10.mp3", duration: "5:40" },
   { name: "No more/AVB", file: "audio/AVB - No more 08.10.mp3", duration: "3:37" },
   { name: "ALED/AVB", file: "audio/AVB - ALED 08.10.mp3", duration: "4:10" },
+  { name: "C'est quoi ça/AVB", file: "audio/AVB - C'est quoi ça - Mix final 30.08 v2.mp3", duration: "4:10" },
+  
 
 
 ];
