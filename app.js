@@ -5,7 +5,7 @@ const tracks = [
   { name: "ALED/AVB", file: "audio/AvB - ALED 31.10.mp3", duration: "4:24" },
   { name: "Echo/AVB", file: "audio/AvB - Echo 31.10.mp3", duration: "4:20" },
   { name: "Dimanche/AVB", file: "audio/AvB - Dimanche 31.10.mp3", duration: "3:55" },
-
+  { name: "ElectroK/AVB", file: "audio/AVB - ElectroK 06.11.mp3", duration: "04:15" },
 
 
 ];
